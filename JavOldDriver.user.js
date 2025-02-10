@@ -1648,7 +1648,7 @@
                             <table><tbody><tr>
                                 <td class="header">在线预览:</td>
                                 <td>
-                                    <span class="genre"><a href="https://missav.com/cn/${AVID}" target="_blank" title="需解封印" >missav</a></span>
+                                    <span class="genre"><a href="https://missav.ws/cn/${AVID}" target="_blank" title="需解封印" >missav</a></span>
                                     <span class="genre"><a href="https://7mmtv.tv/zh/censored_search/all/${AVID}/1.html" target="_blank" title="需解封印" >7mmtv</a></span>
                                     <span class="genre"><a href="https://supjav.com/zh/?s=${Common.getAvCode(AVID)}+${AVID}" target="_blank" title="需解封印">supjav</a></span>
                                 </td>
@@ -1827,7 +1827,7 @@
                     $('.col-md-3.info').append(`
                         <p>
                             <span class="header">在线预览:</span>
-                            <a href="https://missav.com/cn/${AVID}" target="_blank" style="color: rgb(204, 0, 0);" title="需解封印">missav&nbsp;</a>
+                            <a href="https://missav.ws/cn/${AVID}" target="_blank" style="color: rgb(204, 0, 0);" title="需解封印">missav&nbsp;</a>
                             <a href="https://7mmtv.tv/zh/censored_search/all/${AVID}/1.html" target="_blank" style="color: rgb(204, 0, 0);" title="需解封印">7mmtv&nbsp;</a>
                             <a href="https://supjav.com/zh/?s=${AVID}" target="_blank" style="color: rgb(204, 0, 0);" title="需解封印">supjav&nbsp;</a>
                         </p>
@@ -2107,7 +2107,7 @@
 
                 $(".onlinePlayLink").append(`
                     <a href="https://njav.tv/zh/search?keyword=${$('.boxoleft .box_left_news.news_2n').attr("avid")}" target="_blank" style="color: rgb(204, 0, 0);" title="">njav&nbsp;&nbsp;</a>
-                    <a href="https://missav.com/cn/${$('.boxoleft .box_left_news.news_2n').attr("avid")}" target="_blank" style="color: rgb(204, 0, 0);" title="此站需解封">missav&nbsp;&nbsp;</a>
+                    <a href="https://missav.ws/cn/${$('.boxoleft .box_left_news.news_2n').attr("avid")}" target="_blank" style="color: rgb(204, 0, 0);" title="此站需解封">missav&nbsp;&nbsp;</a>
                     <a href="https://7mmtv.tv/zh/censored_search/all/${$('.boxoleft .box_left_news.news_2n').attr("avid")}/1.html" target="_blank" style="color: rgb(204, 0, 0);" title="此站需解封">7mmtv&nbsp;&nbsp;</a>
                     <a href="https://supjav.com/zh/?s=${$('.boxoleft .box_left_news.news_2n').attr("avid")}" target="_blank" style="color: rgb(204, 0, 0);" title="此站需解封">supjav&nbsp;&nbsp;</a>
                 `);
